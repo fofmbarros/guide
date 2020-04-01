@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="nos-epg" source-info-name="nos-epg">
     <channel id="Fight Network HD">
@@ -21264,4 +21264,5 @@ m&#225;s pr&#225;ticas, casos de sucesso e insucesso, candidatos &#224; Europa, 
         <desc>Trisha convida os amigos para sua casa para conhecer os seus trabalhos de olaria. Ela confecciona cabelos de anjo com frango e pesto de abacate e beringelas grelhadas.</desc>
         <category>entretenimento</category>
         <icon src="https://images.nos.pt/592729_resized_352x198.jpg&Referer=https://www.nos.pt/particulares/televisao/guia-tv/Pages/default.aspx" />
+	</programme>
 </tv>
