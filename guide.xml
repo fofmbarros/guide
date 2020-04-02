@@ -155,7 +155,7 @@
   <display-name>Cidade FM</display-name>
   <display-name>507</display-name>
 </channel>
-<channel id="RTR-Planeta">
+<channel id="RTR Planeta">
   <display-name>RTR-Planeta</display-name>
   <display-name>1422</display-name></channel>
 <channel id="NOS Studios  HD">
@@ -201,7 +201,7 @@
   <display-name>SBSR</display-name>
   <display-name>509</display-name>
 </channel>
-<channel id="C&PHD">
+<channel id="Ca&#231;a e Pesca">
   <display-name>Ca&#231;a e Pesca HD</display-name>
   <display-name>37</display-name>
 </channel>
@@ -254,7 +254,7 @@
   <display-name>Canal Panda</display-name>
   <display-name>43</display-name>
 </channel>
-<channel id="iconcertshd">
+<channel id="Stingray iConcerts HD">
   <display-name>iConcerts HD</display-name>
   <display-name>100</display-name>
 </channel>
@@ -291,7 +291,7 @@
   <display-name>Globo Now HD</display-name>
   <display-name>62</display-name>
 </channel>
-<channel id="TV Record HD">
+<channel id="Record TV HD">
   <display-name>TV Record HD</display-name>
   <display-name>105</display-name>
 </channel>
@@ -307,7 +307,7 @@
   <display-name>TCV Internacional</display-name>
   <display-name>158</display-name>
 </channel>
-<channel id="Phoenix InfoNews">
+<channel id="Phoenix Infonews">
   <display-name>Phoenix InfoNews</display-name>
   <display-name>126</display-name>
 </channel>
@@ -360,7 +360,7 @@
 <channel id="TVI Reality - C&#226;mara 3">
   <display-name>TVI Reality - C&#226;mara 3</display-name>
   <display-name>169</display-name></channel>
-<channel id="RT">
+<channel id="Russia Today">
   <display-name>RT</display-name>
   <display-name>127</display-name>
 </channel>
@@ -469,7 +469,7 @@
   <display-name>TV5 Monde</display-name>
   <display-name>136</display-name>
 </channel>
-<channel id="TVR International">
+<channel id="TVR Internacional">
   <display-name>TVR International</display-name>
   <display-name>143</display-name></channel>
 <channel id="AXN HD">
@@ -541,7 +541,7 @@
   <display-name>Rai 2</display-name>
   <display-name>157</display-name>
 </channel>
-<channel id="TVM">
+<channel id="TVM Internacional">
   <display-name>TVM</display-name>
   <display-name>164</display-name>
 </channel>
@@ -594,7 +594,7 @@
   <display-name>Hispasat 4K</display-name>
   <display-name>65</display-name>
 </channel>
-<channel id="BTV 1 HD">
+<channel id="BTV1 HD">
   <display-name>BTV 1 HD</display-name>
   <display-name>31</display-name></channel>
 <channel id="FTV HD">
@@ -695,7 +695,7 @@
   <display-name>CNBC</display-name>
   <display-name>123</display-name>
 </channel>
-<channel id="Afro Music">
+<channel id="Afro Music Channel">
   <display-name>Afro Music</display-name>
   <display-name>98</display-name>
 </channel>
@@ -737,7 +737,7 @@
 <channel id="TVE 24h">
   <display-name>TVE 24h</display-name>
   <display-name>125</display-name></channel>
-<channel id="TVE Internacional">
+<channel id="TVEi">
   <display-name>TVE Internacional</display-name>
   <display-name>132</display-name>
 </channel>
