@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/201" tvg-id="f465d2f2ac36281be5bd82f2e28a45ca" tvg-chno="1",RTP Madeira
+http://bananapi:9981/stream/channelid/1926391284?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/202" tvg-id="c71fd4a1f7444f9aeda25b027f9d42d1" tvg-chno="2",RTP 1 HD
+http://bananapi:9981/stream/channelid/567549895?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/203" tvg-id="81c71b5f2cf7159d792ff1524c4a81fb" tvg-chno="3",SIC HD
+http://bananapi:9981/stream/channelid/1595656065?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/204" tvg-id="1785c8f2992cc4d0cdc71d886c8d99ac" tvg-chno="4",TVI HD
+http://bananapi:9981/stream/channelid/1925743895?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/205" tvg-id="37a5840eb7968c706274ebfaa5f1731e" tvg-chno="5",SIC Notícias HD
+http://bananapi:9981/stream/channelid/243574071?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/206" tvg-id="5f5f2a66319a994e4a7bf510f13a8aad" tvg-chno="6",RTP 2 HD
+http://bananapi:9981/stream/channelid/1714052959?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/207" tvg-id="7926ce10b7fccc7c3ca5bea1fbe95e31" tvg-chno="7",TVI 24 HD
+http://bananapi:9981/stream/channelid/281945721?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/208" tvg-id="a9482ec78f01d9ebb17af817ee73016f" tvg-chno="8",CMTV HD
+http://bananapi:9981/stream/channelid/1194215593?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/209" tvg-id="56b8b4a140dd589ddc2ca41801282450" tvg-chno="9",RTP 3
+http://bananapi:9981/stream/channelid/565491798?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/210" tvg-id="2bb740e3ced6a4dd20e4acb276e2611d" tvg-chno="10",Globo HD
+http://bananapi:9981/stream/channelid/1665185579?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/211" tvg-id="469e1324d02be303d7a5aa0ea3aab96d" tvg-chno="11",Canal 11 HD
+http://bananapi:9981/stream/channelid/605265478?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/212" tvg-id="ee2bb456f7aab97d22e3fc8e460aaca0" tvg-chno="12",SIC Mulher HD
+http://bananapi:9981/stream/channelid/1454648302?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/213" tvg-id="b2aa4d233f358b9f0cf7b304568569a7" tvg-chno="13",TVI Reality HD
+http://bananapi:9981/stream/channelid/592292530?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/214" tvg-id="d96df5946b72aea0c07252f2f3b695e2" tvg-chno="14",Porto Canal HD
+http://bananapi:9981/stream/channelid/351628761?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/215" tvg-id="753b7f72868e3633a979a9337c06ae88" tvg-chno="15",SIC Caras HD
+http://bananapi:9981/stream/channelid/1920940917?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/216" tvg-id="be5231d9ce25a7f75248e63e669e7b06" tvg-chno="16",SIC Radical HD
+http://bananapi:9981/stream/channelid/1496404670?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/217" tvg-id="65cec3f4cbbb4a4127d98501db802755" tvg-chno="17",RTP Memória
+http://bananapi:9981/stream/channelid/1958989413?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/218" tvg-id="4261f37e339acb1b5d62244dc5395c2b" tvg-chno="18",SPORT TV+ HD
+http://bananapi:9981/stream/channelid/2129879362?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/219" tvg-id="345e70c1926f464fa7a864cce78d1aa5" tvg-chno="19",Sport TV 1 HD
+http://bananapi:9981/stream/channelid/1097883188?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/220" tvg-id="073a32f5cfdaab1c431374f0892692f2" tvg-chno="20",Sport TV 2 HD
+http://bananapi:9981/stream/channelid/1966225927?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/221" tvg-id="c1c2a52ba7f6ede5442b5fe5f8bc3575" tvg-chno="21",Sport TV 3 HD
+http://bananapi:9981/stream/channelid/732283585?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/222" tvg-id="7c865bbdd3e2a5e79127805803e092c2" tvg-chno="22",Sport TV 4 HD
+http://bananapi:9981/stream/channelid/1029408380?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/223" tvg-id="87372be7b1931a13eee702d34710e726" tvg-chno="23",Sport TV 5 HD
+http://bananapi:9981/stream/channelid/1730885511?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/224" tvg-id="08aff54215a7fb9eeb5932dc6aa2dc2a" tvg-chno="24",Sport TV NBA
+http://bananapi:9981/stream/channelid/1123397384?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/225" tvg-id="6e8da0d1569eb1b1dfeea617fc720825" tvg-chno="25",Eleven Sports 1
+http://bananapi:9981/stream/channelid/1369476462?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/226" tvg-id="9e4ed53ed37aa4b648cecbecd50f3e4d" tvg-chno="26",Eleven Sports 2
+http://bananapi:9981/stream/channelid/1054166686?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/227" tvg-id="9f83ed92742f83372a95d1acb1856f19" tvg-chno="27",Eleven Sports 3
+http://bananapi:9981/stream/channelid/317555615?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/228" tvg-id="c3fcab9f56dae72a5d88aead3df4bb5e" tvg-chno="28",Eleven Sports 4
+http://bananapi:9981/stream/channelid/531365059?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/229" tvg-id="c829fd40e0b01764084fdc1c75a8edae" tvg-chno="29",Eleven Sports 5
+http://bananapi:9981/stream/channelid/1090333128?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/230" tvg-id="42235d0fc1e2719fb6062a9c21c00e00" tvg-chno="30",Eleven Sports 6
+http://bananapi:9981/stream/channelid/257762114?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/231" tvg-id="0b765d6820471b097b6b31742b0ef5bf" tvg-chno="31",BTV 1 HD
+http://bananapi:9981/stream/channelid/1750955531?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/232" tvg-id="faa4ddf3d2c6fb5fe30f0e054aa3076b" tvg-chno="32",Sporting TV HD
+http://bananapi:9981/stream/channelid/1943905530?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/233" tvg-id="2170b32d2cc09e2cbc00202e305fd507" tvg-chno="33",Eurosport 1 HD
+http://bananapi:9981/stream/channelid/766734369?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/234" tvg-id="922f27dacb3a8e253f570b4ee7b4e1eb" tvg-chno="34",Eurosport 2 HD
+http://bananapi:9981/stream/channelid/1512517522?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/235" tvg-id="48c11b6e15c12d0d009ce72e672a1585" tvg-chno="35",Fuel TV HD
+http://bananapi:9981/stream/channelid/1847312712?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/236" tvg-id="90c5489f7450eb2c6b9a9054b5446aed" tvg-chno="36",Toros TV HD
+http://bananapi:9981/stream/channelid/524862864?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/237" tvg-id="f98684240dc4ae3224456cf9d85223e4" tvg-chno="37",Caça e Pesca HD
+http://bananapi:9981/stream/channelid/612665081?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/238" tvg-id="333654136916da6f7ebd33a25b2775ea" tvg-chno="38",Motorvision HD
+http://bananapi:9981/stream/channelid/324286003?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/239" tvg-id="86657981f95ce3b66f85cffc7d1a9c8d" tvg-chno="39",Fight Network HD
+http://bananapi:9981/stream/channelid/24733062?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/240" tvg-id="3e4dfc957e02a70c2a28d0eb7e526969" tvg-chno="40",PFC
+http://bananapi:9981/stream/channelid/368856382?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/241" tvg-id="3402ddb8b1b934cf8e992aa0bd5d8f22" tvg-chno="41",Disney Channel
+http://bananapi:9981/stream/channelid/954008116?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/242" tvg-id="cee24c4689c6c44c75c677e4ad27b425" tvg-chno="42",Nickelodeon
+http://bananapi:9981/stream/channelid/1179443918?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/243" tvg-id="2e6c84aa98735a63faa798aa1e679b35" tvg-chno="43",Canal Panda
+http://bananapi:9981/stream/channelid/713321518?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/244" tvg-id="eb999943716fa5fbe11bb3166690dd1b" tvg-chno="44",Biggs
+http://bananapi:9981/stream/channelid/1134139883?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/245" tvg-id="341541b565559b47c3b98e58f9a5660c" tvg-chno="45",Disney Junior
+http://bananapi:9981/stream/channelid/893457716?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/246" tvg-id="fd60556f5c2cc9e7b5bfcb09e12d9942" tvg-chno="46",Cartoon Network
+http://bananapi:9981/stream/channelid/1867866365?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/247" tvg-id="c43db2cb254b6e149ebd7520fb4b9ad8" tvg-chno="47",Nick Jr.
+http://bananapi:9981/stream/channelid/1269972420?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/248" tvg-id="bf72ace335c82f91b7f8ac36d2d68aed" tvg-chno="48",Baby TV
+http://bananapi:9981/stream/channelid/1672245951?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/249" tvg-id="77819cc72108d172d958ca0c85327291" tvg-chno="49",Tiji
+http://bananapi:9981/stream/channelid/1201439095?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/250" tvg-id="0d2f511888a3cb159fd3baecd1d57174" tvg-chno="50",SIC K HD
+http://bananapi:9981/stream/channelid/407973645?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/294" tvg-id="c8569fa75f158852b1a2060fd8c4385f" tvg-chno="51",Super RTL
+http://bananapi:9981/stream/channelid/664753864?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/338" tvg-id="e0f44bc47ae03f6283b55b2bd2c5044d" tvg-chno="52",E! Entertainment HD
+http://bananapi:9981/stream/channelid/1145828576?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/370" tvg-id="e179116b8387f2abf5d4bc650063353d" tvg-chno="53",FTV HD
+http://bananapi:9981/stream/channelid/1796307425?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/354" tvg-id="daad0dd9a527a350b5286267507f1a02" tvg-chno="54",TVI Ficção HD
+http://bananapi:9981/stream/channelid/1494068698?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/320" tvg-id="240a0337a65045dfcec5802335f28b2c" tvg-chno="55",BBC Entertainment
+http://bananapi:9981/stream/channelid/922946084?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/362" tvg-id="40536e5f84d80bf79b0d07925395aa48" tvg-chno="56",Canal Q
+http://bananapi:9981/stream/channelid/1601065792?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/342" tvg-id="19abe2c56101f086eb4e8eeaaa29e65d" tvg-chno="57",TLC
+http://bananapi:9981/stream/channelid/1172482841?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/270" tvg-id="f11135903e3bb67879afb9ac972dba11" tvg-chno="58",24 Kitchen HD
+http://bananapi:9981/stream/channelid/271913457?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/296" tvg-id="1ca2ec27fdad368f05ef6cae44247dd3" tvg-chno="59",Food Network HD
+http://bananapi:9981/stream/channelid/669819420?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/269" tvg-id="900bf60f806829020a1fc229f10a6616" tvg-chno="60",MTV Portugal HD
+http://bananapi:9981/stream/channelid/267783056?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/349" tvg-id="3ec655ce7c0c50f021a4612e2f09961e" tvg-chno="61",Fine Living Network HD
+http://bananapi:9981/stream/channelid/1314244158?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/309" tvg-id="3179acafca7f79f771db74e75bcaf114" tvg-chno="62",Globo Now HD
+http://bananapi:9981/stream/channelid/799832369?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/261" tvg-id="1747b788332b87e2b5e31053b3cabd5f" tvg-chno="63",Canal 180
+http://bananapi:9981/stream/channelid/146229015?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/287" tvg-id="6ac882a2d9f90dc971c79c4b5c0d0271" tvg-chno="64",DogTV
+http://bananapi:9981/stream/channelid/578996330?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/369" tvg-id="d4ab5768658d894a03a25b81f093dcf9" tvg-chno="65",Hispasat 4K
+http://bananapi:9981/stream/channelid/1750576084?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/264" tvg-id="dfdf138aa48f488999090e214664433c" tvg-chno="66",Discovery HD
+http://bananapi:9981/stream/channelid/169074655?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/251" tvg-id="c13bf88135d256cbd7721f30d4910bca" tvg-chno="67",National Geographic HD
+http://bananapi:9981/stream/channelid/33045441?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/388" tvg-id="68b77f762f5388bc19a87daeac57192e" tvg-chno="68",National Geographic WILD HD
+http://bananapi:9981/stream/channelid/1988081512?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/334" tvg-id="b82ef6420582e35975449dfccbbe1281" tvg-chno="69",Odisseia HD
+http://bananapi:9981/stream/channelid/1123430072?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/317" tvg-id="1d9e52b598156b9a9c45cb185ebed014" tvg-chno="70",Travel Channel HD
+http://bananapi:9981/stream/channelid/894606877?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/335" tvg-id="66ec55c353f3131de10f6e2ff22a6783" tvg-chno="71",História HD
+http://bananapi:9981/stream/channelid/1129704550?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/299" tvg-id="5d7d38aae52bc9b655732093e4f943e4" tvg-chno="72",Crime + Investigation HD
+http://bananapi:9981/stream/channelid/708345181?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/323" tvg-id="d5ea1039c7c591fffcf24d3b2bd88c8d" tvg-chno="73",Blaze HD
+http://bananapi:9981/stream/channelid/957410005?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/305" tvg-id="eb01a02d8d7c9b38192eb676118b49bf" tvg-chno="74",MyZen TV
+http://bananapi:9981/stream/channelid/765460971?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/381" tvg-id="f0a84ef28839b008d4d38f6bf7a8ebc1" tvg-chno="75",S+ HD
+http://bananapi:9981/stream/channelid/1917757680?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/284" tvg-id="9e50aa9e269c0332dad9cc2cbbc89aeb" tvg-chno="76",NOS Studios HD
+http://bananapi:9981/stream/channelid/514478238?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/374" tvg-id="5e7516ed42b644eb29639d7cb97a0600" tvg-chno="77",TVCine TOP HD
+http://bananapi:9981/stream/channelid/1830188382?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/293" tvg-id="0c1a1127d96416cb7aa597a5e4183f63" tvg-chno="78",TVCine EDITION HD
+http://bananapi:9981/stream/channelid/655432204?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/336" tvg-id="ca0c5ec3496c535e12e944ddebf4fb5d" tvg-chno="79",TVCine EMOTION HD
+http://bananapi:9981/stream/channelid/1130237130?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/319" tvg-id="341313365f00ed7306d8d68ea0e7ddea" tvg-chno="80",TVCine ACTION HD
+http://bananapi:9981/stream/channelid/907219764?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/328" tvg-id="411f80bc8693e48824f91c1302163021" tvg-chno="81",Hollywood HD
+http://bananapi:9981/stream/channelid/1015029569?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/347" tvg-id="8f3890cbeb686c4be5d06e5f262dcd40" tvg-chno="82",AXN HD
+http://bananapi:9981/stream/channelid/1267742863?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/275" tvg-id="1003b114bafc083e2e839b815f5302cd" tvg-chno="83",AXN Movies HD
+http://bananapi:9981/stream/channelid/347144976?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/272" tvg-id="383e1b12f179e9ff999411331f65e63f" tvg-chno="84",AXN White HD
+http://bananapi:9981/stream/channelid/303775288?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/375" tvg-id="d2b526ee9724d48cdc4bc27eaf4d04f6" tvg-chno="85",FOX HD
+http://bananapi:9981/stream/channelid/1848030674?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/274" tvg-id="b37382921267836883306cb9c4d78ba8" tvg-chno="86",FOX Life HD
+http://bananapi:9981/stream/channelid/310539187?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/301" tvg-id="afb057aacb0482ea3f394399a2d969fa" tvg-chno="87",FOX Movies HD
+http://bananapi:9981/stream/channelid/710389935?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/300" tvg-id="bab6492a4e22b7b09f88bb1e8f2f29b4" tvg-chno="88",FOX Crime HD
+http://bananapi:9981/stream/channelid/709473978?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/286" tvg-id="bbf9dba192c8fe5b6c84a59db25be2fd" tvg-chno="89",FOX Comedy HD
+http://bananapi:9981/stream/channelid/568064443?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/385" tvg-id="93d0f4f56d895e3f3d2b795a77049bd5" tvg-chno="90",SYFY HD
+http://bananapi:9981/stream/channelid/1978978451?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/291" tvg-id="15f2b626fc1e3ba6555ff26f217e4585" tvg-chno="91",ID Investigation Discovery
+http://bananapi:9981/stream/channelid/649523733?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/383" tvg-id="28811774f12ecb665ac158c38adb808b" tvg-chno="92",AMC HD
+http://bananapi:9981/stream/channelid/1947697448?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/393" tvg-id="7b463ffcfc38d697c46c9a3f7d6f6af0" tvg-chno="93",VH1
+http://bananapi:9981/stream/channelid/2084521595?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/281" tvg-id="2c685b1a47b22a1b7fe02f722e3522eb" tvg-chno="94",MTV Live HD
+http://bananapi:9981/stream/channelid/442198060?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/391" tvg-id="c6451678d04e348579aa3e09b2e31574" tvg-chno="95",MCM Top
+http://bananapi:9981/stream/channelid/2014725574?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/307" tvg-id="1c75612fe5ee8747354a9e1fdce2f9fe" tvg-chno="96",MVM
+http://bananapi:9981/stream/channelid/794916124?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/304" tvg-id="f939ddacf29109856905beccd4e11b6b" tvg-chno="97",MCM Pop
+http://bananapi:9981/stream/channelid/752695801?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/387" tvg-id="cbe267f6fa1071133251fd0e0047a20f" tvg-chno="98",Afro Music
+http://bananapi:9981/stream/channelid/1986519755?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/384" tvg-id="de1b5df53f30c3f46b236400813230c9" tvg-chno="99",Trace Toca
+http://bananapi:9981/stream/channelid/1969036254?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/302" tvg-id="3cdd8aab9052e50530f21866c74c7801" tvg-chno="100",iConcerts HD
+http://bananapi:9981/stream/channelid/730520892?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/373" tvg-id="66aa0ced665785172217c37bb1d3a36f" tvg-chno="101",Trace Urban HD
+http://bananapi:9981/stream/channelid/1829546598?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/356" tvg-id="d577135b965815ecece867d4d3b7b09a" tvg-chno="102",Mezzo
+http://bananapi:9981/stream/channelid/1528002517?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/278" tvg-id="2268679664651835bd8b336f817ef1de" tvg-chno="103",Mezzo Live HD
+http://bananapi:9981/stream/channelid/375875618?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/292" tvg-id="47f1d2264f217029236831987d38951c" tvg-chno="104",Record News
+http://bananapi:9981/stream/channelid/651358535?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/310" tvg-id="4e64ad2f93a9b46cf238f188e7bc5256" tvg-chno="105",TV Record HD
+http://bananapi:9981/stream/channelid/799892558?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/359" tvg-id="a2e1145d89b12bfe60999d3d76efe3b8" tvg-chno="106",ZAP Viva HD
+http://bananapi:9981/stream/channelid/1561649570?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/337" tvg-id="e00b9ac3134007a194903884ade55893" tvg-chno="107",Kuriakos TV
+http://bananapi:9981/stream/channelid/1134169056?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/253" tvg-id="dbf936832f19c55744839ab566e4689a" tvg-chno="108",Canção Nova
+http://bananapi:9981/stream/channelid/53934555?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/395" tvg-id="2c746efdd249842aee629d86f44701d1" tvg-chno="109",RTP Açores
+http://bananapi:9981/stream/channelid/2104390700?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/297" tvg-id="69f0d82860bed64e72ed69e5f08e9869" tvg-chno="110",RTP África
+http://bananapi:9981/stream/channelid/685305961?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/329" tvg-id="7cbff03d364aded49f2f2745f58ef586" tvg-chno="111",TPA Internacional
+http://bananapi:9981/stream/channelid/1039187836?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/257" tvg-id="94a5c605e27f061e3f1708511202ab52" tvg-chno="112",STV Notícias
+http://bananapi:9981/stream/channelid/96904596?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/367" tvg-id="6fc97fe321900a85f82286ebe235bc75" tvg-chno="113",Regiões TV
+http://bananapi:9981/stream/channelid/1669319023?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/332" tvg-id="193fa9c2699662acdef3722c4798e3d9" tvg-chno="114",Localvisão TV HD
+http://bananapi:9981/stream/channelid/1118387993?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/298" tvg-id="06a3a0a91c09d43b6c15fec335d0082e" tvg-chno="115",Rai News 24
+http://bananapi:9981/stream/channelid/698393350?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/343" tvg-id="8a20b14860e204f2c8041ceaacaf5a13" tvg-chno="116",Euronews
+http://bananapi:9981/stream/channelid/1219567754?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/389" tvg-id="8de81177e5594d12b2d7fcf9c3f8b8a2" tvg-chno="117",CNN
+http://bananapi:9981/stream/channelid/1997662349?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/324" tvg-id="e70b7fb95e45ccadb2c22b31c1e08d6f" tvg-chno="118",Sky News
+http://bananapi:9981/stream/channelid/964627431?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/366" tvg-id="43a70062f80416bcaf4c3f4bf5ba1796" tvg-chno="119",BBC World News
+http://bananapi:9981/stream/channelid/1644209987?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/330" tvg-id="82d585414dbf007e6f28790e977a26f5" tvg-chno="120",Al Jazeera
+http://bananapi:9981/stream/channelid/1099289986?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/350" tvg-id="0b79e755fb65e45f5ab642fd71587304" tvg-chno="121",France 24 (I)
+http://bananapi:9981/stream/channelid/1441233163?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/285" tvg-id="4c3b489f13b4b3d66f71d4f89d99fde6" tvg-chno="122",France 24 (F)
+http://bananapi:9981/stream/channelid/524827468?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/386" tvg-id="51e340f6ed16e2b5d7c71c6cc8275865" tvg-chno="123",CNBC
+http://bananapi:9981/stream/channelid/1983963985?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/308" tvg-id="bea0a8afb1fcc9eda3811e7bd6136a6f" tvg-chno="124",Bloomberg
+http://bananapi:9981/stream/channelid/799580350?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/397" tvg-id="3c0b057eea1152c993b685ef0699dee8" tvg-chno="125",TVE 24h
+http://bananapi:9981/stream/channelid/2114259772?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/314" tvg-id="41305834530477001f7b6323c35cc196" tvg-chno="126",Phoenix InfoNews
+http://bananapi:9981/stream/channelid/878194753?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/326" tvg-id="8d048aba52cfce5b499f7e200e973d5c" tvg-chno="127",RT
+http://bananapi:9981/stream/channelid/982123661?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/277" tvg-id="4028e4959043ef1ade568b4b673965d4" tvg-chno="128",NHK World TV
+http://bananapi:9981/stream/channelid/367274048?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/252" tvg-id="9f00ee02bc0aeacb6a87ee9acef663d2" tvg-chno="129",CGTN
+http://bananapi:9981/stream/channelid/49152159?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/351" tvg-id="7bca39d60ade52126be94184c5247a80" tvg-chno="130",ARTV
+http://bananapi:9981/stream/channelid/1446627963?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/379" tvg-id="cd5839f01d2012b1d553ec909ae578de" tvg-chno="131",TV Galicia
+http://bananapi:9981/stream/channelid/1882806477?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/398" tvg-id="d360617e69e8fbd30dbb5ae491aea0e0" tvg-chno="132",TVE Internacional
+http://bananapi:9981/stream/channelid/2120310995?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/348" tvg-id="8a529b4d461f5d1f2e5ba81d59770da4" tvg-chno="133",Cubavisión Internacional
+http://bananapi:9981/stream/channelid/1302024842?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/267" tvg-id="f168160d943c772f355b2972c6587347" tvg-chno="134",TeleSUR
+http://bananapi:9981/stream/channelid/219572465?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/259" tvg-id="123b62874609995c2597dd299200bead" tvg-chno="135",M6
+http://bananapi:9981/stream/channelid/123878162?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/345" tvg-id="2a860b492edcb96791a1fb7b910ae78b" tvg-chno="136",TV5 Monde
+http://bananapi:9981/stream/channelid/1225492010?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/364" tvg-id="486121e1f82aa42f808cb72ebfb44716" tvg-chno="137",ARTE
+http://bananapi:9981/stream/channelid/1629577544?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/273" tvg-id="6fa36e12d27809301644abcf07c19119" tvg-chno="138",BVN
+http://bananapi:9981/stream/channelid/309240687?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/399" tvg-id="9ee8b67eca6cb9cbc13a426631c26c78" tvg-chno="139",RTL
+http://bananapi:9981/stream/channelid/2125916318?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/368" tvg-id="2a5e6066995cfdd1940bdad32f57ed33" tvg-chno="140",DW
+http://bananapi:9981/stream/channelid/1717591594?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/358" tvg-id="6a4cdddc05f37089028b8d70cdc38253" tvg-chno="141",DW (Alemão)
+http://bananapi:9981/stream/channelid/1558006890?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/283" tvg-id="9b282f9b2ac57aade2f0e651b229c05a" tvg-chno="142",RTR-Planeta
+http://bananapi:9981/stream/channelid/456075419?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/346" tvg-id="de8a1d4ad921d310b84f0a10a9ff4134" tvg-chno="143",TVR International
+http://bananapi:9981/stream/channelid/1243450078?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/321" tvg-id="d5b33837dadf44ae0d13a0b445bfdab7" tvg-chno="144",BNT World
+http://bananapi:9981/stream/channelid/926462933?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/318" tvg-id="0398ed35f533638a6734c8f3b0b1d994" tvg-chno="145",1+1
+http://bananapi:9981/stream/channelid/904763395?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/353" tvg-id="9e35ff580e651e2d663b9dd4421cc752" tvg-chno="146",Phoenix CNE
+http://bananapi:9981/stream/channelid/1493120414?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/357" tvg-id="c43471db9346d51a47ee999f9d61de23" tvg-chno="147",KBS World HD
+http://bananapi:9981/stream/channelid/1534145732?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/263" tvg-id="6d491c09a113e9464ad2615092ee1781" tvg-chno="148",CCTV4
+http://bananapi:9981/stream/channelid/152848749?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/265" tvg-id="41c0578b24e142ad88b134e8a217c3ed" tvg-chno="149",Globovision
+http://bananapi:9981/stream/channelid/190300225?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/371" tvg-id="05c36beb7e9693a38c9d8064c2c4029f" tvg-chno="150",SAT 1
+http://bananapi:9981/stream/channelid/1802224389?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/276" tvg-id="b9bd3d15ea1315942035abc05389637e" tvg-chno="151",ARD
+http://bananapi:9981/stream/channelid/356367801?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/295" tvg-id="dc10e0a7b8797a570e4818bb1d6831b1" tvg-chno="152",ProSieben
+http://bananapi:9981/stream/channelid/668995804?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/312" tvg-id="735ceeb0d3fc763217057c6e822fb8f4" tvg-chno="153",ZDF
+http://bananapi:9981/stream/channelid/820927603?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/316" tvg-id="f1c22c35c989a1a4c2711732a2081f5d" tvg-chno="154",VIVA Germany
+http://bananapi:9981/stream/channelid/892125937?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/256" tvg-id="95d6f6043e8ad407582427cc4be6b3fb" tvg-chno="155",DSF
+http://bananapi:9981/stream/channelid/83285653?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/254" tvg-id="d0bfe50305d7b61caa74f7b4f882e4e4" tvg-chno="156",Rai 1
+http://bananapi:9981/stream/channelid/65388496?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/360" tvg-id="2a5c4ade87d8bab29e4c398bf26f5857" tvg-chno="157",Rai 2
+http://bananapi:9981/stream/channelid/1581931562?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/313" tvg-id="2b5485b1505f0cf4fa09037a8b894caa" tvg-chno="158",TCV Internacional
+http://bananapi:9981/stream/channelid/830821419?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/352" tvg-id="9b9b65d75f914bfa44b346cd38c8a0a4" tvg-chno="159",MAX
+http://bananapi:9981/stream/channelid/1466276763?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/266" tvg-id="c01fb90b32c22841945f826c87922b32" tvg-chno="160",CTC
+http://bananapi:9981/stream/channelid/196681664?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/344" tvg-id="3c21b148ebabf29529b289769bf74b6c" tvg-chno="161",Zee TV
+http://bananapi:9981/stream/channelid/1219567932?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/390" tvg-id="36265df7ab0ae9dc04070261b6ddf0d6" tvg-chno="162",IUTV
+http://bananapi:9981/stream/channelid/2002593334?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/380" tvg-id="29c2e3f16e506ba4e159f335239e99ed" tvg-chno="163",SET Asia
+http://bananapi:9981/stream/channelid/1910751785?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/361" tvg-id="43e6525ebb40cd3fb3fbe16094661e41" tvg-chno="164",TVM
+http://bananapi:9981/stream/channelid/1582491203?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/363" tvg-id="cd129f5f69401574af883505608b4d85" tvg-chno="167",TVI Reality - Câmara 1
+http://bananapi:9981/stream/channelid/1604260557?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/255" tvg-id="6f2a4a04fafe771d066552d58b7920d7" tvg-chno="168",TVI Reality - Câmara 2
+http://bananapi:9981/stream/channelid/71969391?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/325" tvg-id="fbef96b9ab78526ec19751c5fe47de82" tvg-chno="169",TVI Reality - Câmara 3
+http://bananapi:9981/stream/channelid/966193147?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/290" tvg-id="77465f2520d02aba61332dc500500305" tvg-chno="170",TVI Reality - Câmara 4
+http://bananapi:9981/stream/channelid/627000951?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/333" tvg-id="0326f142f64510cf34cd2989f80e2d8d" tvg-chno="171",TVI Reality - Mosaico
+http://bananapi:9981/stream/channelid/1123100163?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/339" tvg-id="c2e64fc42b3871ea59ba89c7ae825599" tvg-chno="442",NOS Ultra HD 4K
+http://bananapi:9981/stream/channelid/1146087106?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/258" tvg-id="74011b87accc10c4ea7a03ef70bd7e40" tvg-chno="500",Rádio JM
+http://bananapi:9981/stream/channelid/119210356?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/260" tvg-id="57f61408600f906b339e4f94cb26a0bd" tvg-chno="501",Rádio Regional
+http://bananapi:9981/stream/channelid/135591511?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/262" tvg-id="7747ce885c9b630bd6ab0e9b190ad414" tvg-chno="502",Rádio Calheta
+http://bananapi:9981/stream/channelid/147736439?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/268" tvg-id="c009cf8efc19694f4c72c6b696b40ce5" tvg-chno="503",RDP África
+http://bananapi:9981/stream/channelid/248449472?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/271" tvg-id="7cf8cf1114277a2fbb1e90ff25f07c28" tvg-chno="504",Rádio Lusitânia
+http://bananapi:9981/stream/channelid/298842236?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/279" tvg-id="e3a67a96dadbc10d75eab20c64bbcb5e" tvg-chno="505",Marginal
+http://bananapi:9981/stream/channelid/377136867?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/280" tvg-id="801d521ae767c93c26f0e4d37c5a74c4" tvg-chno="506",PEF
+http://bananapi:9981/stream/channelid/441589120?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/282" tvg-id="fb64191bd4291dff6b52ad91af2af41b" tvg-chno="507",Cidade FM
+http://bananapi:9981/stream/channelid/454649083?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/288" tvg-id="0a08d0a2e328719062ce9d51779c9670" tvg-chno="508",TSF Madeira
+http://bananapi:9981/stream/channelid/584058890?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/289" tvg-id="be2d2e243ea8df2b23c622595f92a8ff" tvg-chno="509",SBSR
+http://bananapi:9981/stream/channelid/607006142?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/303" tvg-id="19db35aca45d3ad782e8bc7759e614a0" tvg-chno="510",RFM
+http://bananapi:9981/stream/channelid/741727001?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/306" tvg-id="7b235baeb348e3257720f189e4abb0f4" tvg-chno="511",Zig Zag
+http://bananapi:9981/stream/channelid/777724795?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/311" tvg-id="9a41e9af2da3f1b4ce3a6e081be89ca7" tvg-chno="512",Rádio Clube
+http://bananapi:9981/stream/channelid/803815834?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/315" tvg-id="1015a934ee6c2da12a30ddf4db48718f" tvg-chno="513",TSF
+http://bananapi:9981/stream/channelid/883496208?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/322" tvg-id="fb51fab705fc24b127f5ad4204ac2d9d" tvg-chno="514",Rádio Amália
+http://bananapi:9981/stream/channelid/939151867?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/327" tvg-id="e9757cbc4d6ab1c3f927475b302ffc48" tvg-chno="515",Antena 2
+http://bananapi:9981/stream/channelid/1014789609?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/331" tvg-id="adc88d4272dab9f17748444bff36c346" tvg-chno="516",Rádio Renascença
+http://bananapi:9981/stream/channelid/1116588205?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/340" tvg-id="315176449807bff460221412b8756ba7" tvg-chno="517",Mega Hits
+http://bananapi:9981/stream/channelid/1148604721?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/341" tvg-id="724fc444dd53cce32ab237a0c2670687" tvg-chno="518",SuperFM
+http://bananapi:9981/stream/channelid/1153716082?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/355" tvg-id="da251e5a17b274f7dba4a5e1e1d0413c" tvg-chno="519",Antena 3
+http://bananapi:9981/stream/channelid/1511925210?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/365" tvg-id="d88a75619f525e30b80e90beb7d40d3a" tvg-chno="520",Antena 3 Madeira
+http://bananapi:9981/stream/channelid/1635093208?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/372" tvg-id="915cceec662d25adf5d1d3b0dba6f611" tvg-chno="521",Antena 1
+http://bananapi:9981/stream/channelid/1825463441?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/376" tvg-id="76e755ee39b70ffb84105a20149db126" tvg-chno="522",Rádio Comercial
+http://bananapi:9981/stream/channelid/1851123574?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/377" tvg-id="b8a9f06fc51b3da671add4d9e49f85b3" tvg-chno="523",Radar
+http://bananapi:9981/stream/channelid/1878043064?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/378" tvg-id="417d26f0e0d4b0b364b19fa27c0b8456" tvg-chno="524",Oxigénio
+http://bananapi:9981/stream/channelid/1881570625?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/382" tvg-id="786489f2d3cd690d1922452b9c30f6de" tvg-chno="525",Smooth FM
+http://bananapi:9981/stream/channelid/1921606776?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/392" tvg-id="ff47817be6d9f238358f77eaca98acd5" tvg-chno="526",Antena 1 Madeira
+http://bananapi:9981/stream/channelid/2072070143?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/394" tvg-id="979ed7fcef2af0648d14585221e52c02" tvg-chno="527",M80
+http://bananapi:9981/stream/channelid/2094505623?profile=pass
+#EXTINF:-1 logo="http://bananapi:9981/imagecache/396" tvg-id="b8779a7d6cf5e284f28905dee9a32f59" tvg-chno="528",Megafone Rádio
+http://bananapi:9981/stream/channelid/2107275192?profile=pass
